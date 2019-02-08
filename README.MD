@@ -2,6 +2,8 @@
 
 Using jsp for the view layer in the MVC application.
 
+Spring boot logging with application.properties
+
 Has some examples of using, JavaServer Pages Tag Library (JSTL).
 
 useful tuorial for jstl - https://www.baeldung.com/jstl
